@@ -21,5 +21,5 @@ A simple and modern  Doctor Profile Page .
 
 1. **Clone the repository**
    ```bash
-   git clone  
-   cd  
+   git clone git@github.com:NouranElshazly/First_Flutter_App_doctorPortfolio.git  
+   cd  doctor_profile_ui
